@@ -172,7 +172,3 @@ All responses follow a consistent JSON format:
 - Database queries use parameterized statements to prevent SQL injection
 - HTTPS should be used in production
 
-
-## Support
-
-For issues or questions, please contact the development team.
